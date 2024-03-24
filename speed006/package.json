@@ -1,0 +1,37 @@
+{
+  "main": "app.js",
+  "dependencies": {
+    "check-gempa": "^1.0.0",
+    "conver-currency": "^0.1.0",
+    "mementea": "^1.1.0",
+    "puppeteer": "^19.9.0",
+    "speedtestbrayy": "^1.0.0"
+  },
+  "name": "speed006",
+  "description": "> Test your internet connection speed and ping using [DigiNet](https://rcs-rds.speedtestcustom.com/) from the CLI",
+  "version": "1.0.0",
+  "bin": {
+    "speed": "app.js"
+  },
+  "scripts": {
+    "test": "speed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahm2at001/speed006"
+  },
+  "keywords": [
+    "Network",
+    "SpeedTest",
+    "Internet",
+    "Speed",
+    "Network",
+    "Speed"
+  ],
+  "author": "Cristian Andrei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahm2at001/speed006/issues"
+  },
+  "homepage": "https://github.com/rahm2at001/speed006#readme"
+}
